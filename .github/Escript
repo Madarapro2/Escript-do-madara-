@@ -1,0 +1,15 @@
+ninja hub 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xero2409/NinjaHub/main/ninjahub.lua"))()
+
+
+
+Rdz:blox
+
+loadstring(jogo:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+
+
+
+AZURE-E
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yatsuraa/Matsune/main/matsunehubv1.lua"))()
